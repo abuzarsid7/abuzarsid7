@@ -38,7 +38,3 @@ It's not long ago. that I started to code. I find it interesting to code in Java
                       <a href="https://www.stackoverflow.com/users/20195337/abuzar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.twitter.com/Abuzar_Sid_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges
-<!---
-abuzarsid7/abuzarsid7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
