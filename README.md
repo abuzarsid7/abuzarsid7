@@ -12,10 +12,6 @@ It's not long ago. that I started to code. I find it interesting to code in Java
 * 🤝  I'm open to collaborating on small projects with those who're just starting.
 * ⚡  I'm just a beginner in coding but with a lot of enthusiasm.
 
-<a href="https://www.twitter.com/Abuzar_Sid_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Abuzar_Sid_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 
