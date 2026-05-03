@@ -4,8 +4,8 @@ Software Developer | C++ DSA | Full Stack | iOS
 ------------------------------------------------
 📍 Gautam Buddha Nagar, India
 
-📧 [Email](mailto:abuzarsid7456@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/abuzarsid)￼ | [GitHub](https://github.com/abuzarsid7/abuzarsid7)
------------------------------------------------------------------------------------------------------------
+📧 [Email](mailto:abuzarsid7456@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/abuzarsid)￼ | 💻[GitHub](https://github.com/abuzarsid7/abuzarsid7)
+
 ## 👨‍💻 About Me
 
 I’m a Computer Science undergraduate passionate about building scalable software systems and solving problems using Data Structures & Algorithms in C++.
